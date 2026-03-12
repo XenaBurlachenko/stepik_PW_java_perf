@@ -1,0 +1,45 @@
+# Compiled files
+*.class
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.settings/
+.classpath
+.project
+.factorypath
+.settings/
+.springBeans
+.sts4-cache
+
+# VS Code
+.vscode/
+.settings/
+.factorypath
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+logs/
+*.log
+
+# Test results
+test-results/
+reports/
+allure-results/
+allure-report/
+
+# Playwright traces
+traces/
+screenshots/
+videos/
+
+# Maven
+log/

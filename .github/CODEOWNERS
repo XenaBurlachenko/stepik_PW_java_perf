@@ -1,0 +1,11 @@
+# Default owners
+* @yourusername
+
+# GitHub Actions
+.github/ @yourusername
+
+# Test files
+/src/test/ @yourusername
+
+# Documentation
+*.md @yourusername
